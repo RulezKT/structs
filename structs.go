@@ -272,9 +272,14 @@ type ZodiacStructure struct {
 }
 
 type Phs struct {
+	Theme     string
+	NutrType  string
+	Cognition string
 }
 
 type Psychology struct {
+	Motivation string
+	Mind       string
 }
 
 type Cross struct {
