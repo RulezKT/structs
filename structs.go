@@ -223,8 +223,8 @@ func InitPlanets() Planets {
 */
 
 type TimeData struct {
-	LocalTime     gregdate.GregDate //для design всегда 0
-	UtcTime       gregdate.GregDate
+	LocalTime     gregdate.Date //для design всегда 0
+	UtcTime       gregdate.Date
 	TypeOfTyme    int    //Изначальный источник данных 2 - local time, 1- UTC Time,  0 - Ephemeries time
 	Offset        int    //смещение локального времени от UTC в секундах
 	SecFromJd2000 int64  // Ephemeries time
@@ -333,7 +333,7 @@ type DeltaTTableStructure struct {
 	Seconds float64
 }
 
-//первый и последнй года таблицы значений Дельта Т для быстрого доступа и сама таблица
+// первый и последнй года таблицы значений Дельта Т для быстрого доступа и сама таблица
 type DeltaTTable struct {
 	FirstYear int
 	LastYear  int

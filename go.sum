@@ -1,2 +1,6 @@
 github.com/RulezKT/gregdate v0.0.0-20210418212125-bb72d33a83a8 h1:J0enK/wKvuoLReZ0cbC9tfG/L4SsuvJ5xUKWD3Tc/jw=
 github.com/RulezKT/gregdate v0.0.0-20210418212125-bb72d33a83a8/go.mod h1:TpjO3ZW5jJtZnlBVQLyMiCV7VRy7uWAAJEcPAYY58XM=
+github.com/RulezKT/gregdate v0.0.0-20210419080900-6731bac5667d h1:cHTkwwWzjhefktKiKNdACUdVV6avr3MDdM9UN8CypLE=
+github.com/RulezKT/gregdate v0.0.0-20210419080900-6731bac5667d/go.mod h1:ZYXrKO4iceXZXAmWSuv3nn3DSrjq9C20Ss9mmdS+W+Y=
+github.com/RulezKT/gregdate v0.0.0-20220919200431-1d49f01cb1b4 h1:MXt/of5h1FTAmJZhmk0VZKnIWlNGR+FO4hzqtEi0k3U=
+github.com/RulezKT/gregdate v0.0.0-20220919200431-1d49f01cb1b4/go.mod h1:bqCQgH/123cKZPHvNuH523zO2X6CT2nleD9KJypI/m0=
